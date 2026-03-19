@@ -19,7 +19,7 @@ I am passionate about building intelligent systems and solving real-world proble
 
 Languages:
 
-	•	Python 🐍
+	•	Python 
 	•	SQL
 
 Libraries & Tools:
