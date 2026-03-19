@@ -1,8 +1,9 @@
 ## 👋 Hi, I’m Sujal Verma
 
 🎓 Final Year B.Tech CSE Student at AITR
+🚀 Aspiring AI Engineer & Python Develope
 💻 Data Analytics Intern
-🚀 Aspiring AI Engineer & Python Developer
+
 
 <!--
 **sujal05v/sujal05v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
