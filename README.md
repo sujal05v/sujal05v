@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sujal Verma
 
-🚀 Aspiring AI Engineer & Python Developer ||
-💻 Data Analytics Intern
+🚀 Aspiring AI Engineer || Python Developer ||
+💻 Data Analytics Intern || Building Data-Driven Solutions
 
 I am passionate about building intelligent systems and solving real-world problems using Python, Data Analytics, and Artificial Intelligence. Currently, I am enhancing my skills in AI and working on projects that combine data and machine learning.
 
