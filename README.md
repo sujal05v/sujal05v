@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Sujal Verma
 
-🎓 Final Year B.Tech CSE Student at AITR
-🚀 Aspiring AI Engineer & Python Develope
+🚀 Aspiring AI Engineer & Python Developer ||
 💻 Data Analytics Intern
 
 
