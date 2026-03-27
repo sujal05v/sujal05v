@@ -13,7 +13,7 @@ I am passionate about building intelligent systems and solving real-world proble
   
 	•	📊 Working as: Data Analytics Intern
   
-	•	🔍 Interested in: AI, Data Science, Automation, Problem Solving
+	•	🔍 Interested in: AI, Python Development, Automation, Problem Solving
   
 	•	⚡ Fun Fact: I enjoy turning data into meaningful insights
 
