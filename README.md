@@ -39,4 +39,4 @@ Other Skills:
 
 Feel free to reach out regarding opportunities, collaborations, or AI/Data-related discussions. 
 
-📧 sujalverma005@gmail.com
+📧 vsujal2765@gmail.com
