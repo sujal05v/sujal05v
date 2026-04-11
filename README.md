@@ -21,19 +21,26 @@ Languages:
 
 	•	Python 
 	•	SQL
+	-	HTML
+	-	CSS
 
-Libraries & Tools:
+Libraries & Frameworks:
 
+	-	FastAPI
+	-	Flask
 	•	Pandas
 	•	NumPy
-	•	Matplotlib / Seaborn
-	•	Scikit-learn
 
+Tools & IDEs:
+
+	 - VS Code
+	 -	Jupyter Notebook
+	
 Other Skills:
 
 	•	Data Analysis
 	•	Problem Solving
-	•	Basic Machine Learning
+	•	Analytic thinking
   
 📬 Get in Touch
 
