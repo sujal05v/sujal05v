@@ -21,20 +21,20 @@ Languages:
 
 	•	Python 
 	•	SQL
-	-	HTML
-	-	CSS
+	•	HTML
+	•	CSS
 
 Libraries & Frameworks:
 
-	-	FastAPI
-	-	Flask
+	•	FastAPI
+	•	Flask
 	•	Pandas
 	•	NumPy
 
 Tools & IDEs:
 
-	 - VS Code
-	 -	Jupyter Notebook
+	 •	VS Code
+	 •	Jupyter Notebook
 	
 Other Skills:
 
