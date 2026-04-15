@@ -11,7 +11,7 @@ I am passionate about building intelligent systems and solving real-world proble
   
 	•	🧠 Currently Learning: Machine Learning, AI, Advanced Python
   
-	•	📊 Working as: Data Analytics Intern
+	•	📊 Worked as: Data Analytics Intern
   
 	•	🔍 Interested in: AI, Python Development, Automation, Problem Solving
   
