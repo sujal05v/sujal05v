@@ -27,10 +27,11 @@ Languages:
 Libraries & Frameworks:
 
 	•	FastAPI
-	•	Flask
 	•	Pandas
 	•	NumPy
-
+	•	Matplotlib	
+	
+	
 Tools & IDEs:
 
 	 •	VS Code
