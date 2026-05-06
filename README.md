@@ -26,10 +26,10 @@ Languages:
 
 Libraries & Frameworks:
 
-	•	FastAPI
 	•	Pandas
 	•	NumPy
 	•	Matplotlib	
+	•	Scikit-learn 
 	
 	
 Tools & IDEs:
@@ -42,6 +42,8 @@ Other Skills:
 	•	Data Analysis
 	•	Problem Solving
 	•	Analytic thinking
+	•	API Development
+	•	Automation Basics
   
 📬 Get in Touch
 
